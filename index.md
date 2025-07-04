@@ -1,3 +1,4 @@
+<!-- rebuild trigger -->
 ---
 layout: home
 title: "主页"
